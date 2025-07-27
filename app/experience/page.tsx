@@ -26,7 +26,7 @@ const experience = () => {
                 <div className="timeline-start mb-10 md:text-end">
                 <time className="font-mono italic">2024</time>
                 <div className="text-lg font-black">Plooto Inc</div>
-                QA Engineer for the Growth and Automation team for a SaaS startup in Toronto 🛠️
+                QA Engineer for the Growth team at a SaaS startup in Toronto 🛠️
                 </div>
                 <hr />
             </li>
@@ -49,7 +49,7 @@ const experience = () => {
                 <div className="timeline-end md:mb-10">
                 <time className="font-mono italic">2025</time>
                 <div className="text-lg font-black">UW Orbital</div>
-                Software Engineer for Waterloo's satellite design team 🛰
+                Software Engineer for Waterloo&apos;s satellite design team 🛰
                 </div>
                 <hr />
             </li>

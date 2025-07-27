@@ -1,4 +1,5 @@
 'use client';
+
 import { motion } from 'framer-motion';
 import './globals.css';
 
@@ -10,8 +11,8 @@ export default function Home() {
       animate={{ opacity: 1, scale: 1 }}
       transition={{ duration: 0.7 }}
     >
-      <h1 className="text-3xl font-semibold">
-        Welcome to my personal portfolio! <br/>Feel free to check out the other sections.
+      <h1 className="text-3xl font-semibold font-mono">
+        Welcome to My Personal Portfolio
       </h1>
     </motion.div>
   );

@@ -21,7 +21,7 @@ const AboutMe = () => {
                     </div>
                     <div className="w-[60%] flex items-center justify-center pr-15">
                         <h1 className='text-3xl font-semibold text-gray-800 leading-snug text-center font-mono'>
-                            Hello! I'm Suhas, a student at the University of Waterloo studying Computer Engineering. <br/> Some of my interests include...
+                            Hello! I&apos;m Suhas, a student at the University of Waterloo studying Computer Engineering. <br/> Some of my interests include...
                         </h1>
                     </div>
                 </div>
