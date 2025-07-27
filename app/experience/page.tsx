@@ -5,7 +5,7 @@ const experience = () => {
     <>
         <div className='py-15'>
             <h1 className='text-2xl font-semibold text-gray-800 leading-snug text-center font-mono'>
-                1/6 internships done - but who's counting? (Me. I am.)
+                1/6 internships done - but who&apos;s counting? (Me. I am.)
             </h1>
         <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical pt-10 font-mono">
             <li>
